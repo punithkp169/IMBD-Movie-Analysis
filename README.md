@@ -26,3 +26,4 @@ This project presents an in-depth analysis of IMDb movie data using Power BI. Th
 - Director Contributions: George Miller leads in terms of the number of movies directed.
 
 ## Report
+![IMBD](https://github.com/punithkp169/IMBD-Movie-Analysis/assets/173493345/588281cc-51d6-4b5e-91b2-adbc786019f5)
